@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Name: Ironhacker	
 Age: 25
 Favorite color: Yellow
+=======
+Name: Ironhack
+Age: 25
+>>>>>>> 37ca0eef69b2b59f7e63728f9876d9ef95de0d8e
