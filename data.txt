@@ -1,2 +1,4 @@
 Name: Ironhack
 Age: 25
+Victor Maraver
+El día 9 de agosto comienzo mi bootcamp en Ironhack
