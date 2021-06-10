@@ -5,4 +5,9 @@ Favorite color: Yellow
 =======
 Name: Ironhack
 Age: 25
+<<<<<<< HEAD
 >>>>>>> 37ca0eef69b2b59f7e63728f9876d9ef95de0d8e
+=======
+Victor Maraver
+El día 9 de agosto comienzo mi bootcamp en Ironhack
+>>>>>>> fe078263b8529157885bd7ee5c1095359169829e
